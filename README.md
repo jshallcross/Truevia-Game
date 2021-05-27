@@ -1,4 +1,8 @@
 <h1 align="center">Truevia</h1>
+
+##
+This was my week 15/16 group project. We chose to make a trivia game in which users had to signup/login. Users completed 10 trivia questions in their chosen category and difficulty level. Once completed users scores were added to the database and the leaderboard where they can alos comment on thier score and others. 
+My role in this project as to complete the Models and Controllers files. We received a grade of 86%.
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/Group3bootcamp/Truevia-Game" />
